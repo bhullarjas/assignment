@@ -1,0 +1,19 @@
+header,footer{
+    background:red;
+    COLOR:WHITE;
+}
+ul li:nth-child(odd) {
+background:black;
+color:white;
+}
+header a{
+    color:white;
+}
+.sire-title{
+    color:red;
+}
+#my-image{
+    box-shadow: 1px 3px 3px 
+    #ff0000d1
+    width: 200px;
+}
